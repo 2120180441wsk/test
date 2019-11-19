@@ -2,4 +2,8 @@ text1
 text1
 text1
 develope
+<<<<<<< HEAD
 master上修改
+=======
+develope上修改
+>>>>>>> develope
